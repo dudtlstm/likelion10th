@@ -1,0 +1,61 @@
+.First{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 4%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.Topic {
+    background-image: linear-gradient(to right, rgb(178, 240, 255) , rgb(229, 173, 255));
+    margin: 40px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(35, 45, 44);
+}
+
+.Name, .Age, .Birthday, .Major, .MBTI, .Hobby, .Childhood{
+    font-size: small;
+    text-align: center;
+    color: rgb(101, 175, 167);
+    line-height: 10px;
+}
+
+.shin, .zerotwo, .twoten, .computer, .INFJ, .sky, .ocean, .hi{
+    font-size: medium;
+    text-align: center;
+    color: rgb(24, 31, 30);
+}
+
+footer {
+    text-align: center;
+    background-color: #8cd2e6;
+    padding: 15px;
+    color: #323232;
+    font-size: 20px;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+}
+
+.jb-container {
+    width: 940px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+}
+.jb-header {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #bcbcbc;
+}
+.jb-content {
+    width: 897px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #bcbcbc;
+}
+.jb-footer {
+    clear: both;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+}
